@@ -1,0 +1,20 @@
+# pylonsDetails_e000n40_e005n45_3039699
+# do not edit below this line
+# Last Written Wed Oct 23 08:30:25 2019
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 6.00034 45.30360 647.80 389.295
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 6.00067 45.28938 821.61 330.263
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00095 45.25171 1534.55 310.992
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00147 45.25129 1551.62 310.996
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00161 45.25118 1555.26 310.997
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00085 45.25506 1429.43 327.822
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00206 45.25453 1468.14 327.822
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00331 45.25397 1507.31 327.819
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00387 45.25372 1509.72 327.822
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00437 45.25350 1502.75 327.823
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00613 45.25272 1478.35 327.819
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.00807 45.25186 1494.27 327.82
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.01017 45.25093 1540.43 327.819
+OBJECT_SHARED Models/Transport/drag_lift_pylon.xml 6.01173 45.25023 1580.59 327.821
+OBJECT_STATIC e000n40_e005n45_3039699dcables00064.ac 6.00642 45.25784 1516.89 90
+# END pylonsDetails_e000n40_e005n45_3039699
